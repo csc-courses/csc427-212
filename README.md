@@ -19,3 +19,7 @@ If you wish to clone,
 
 1. Create a directory that will contain your git repositories, cd ; mkdir my-gits 
 2. cd to that directory and use "git clone https://github.com/csc-courses/csc427-212.git" 
+3. Now that you have a cloned repo, keep it current with git pull.
+
+If you do clone, you will still need a separate work directory. If you modify the cloned files, you 
+might find it difficult to do a future git pull, as you might have conflicts. 
