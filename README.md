@@ -7,7 +7,7 @@ The course website is at https://www.cs.miami.edu/home/burt/learning/csc427.212.
 
 I recommend that you create a directory csc427 on your computer. This will be where you work on your programs.
 
-To get a copy of the problem set, get a fresh zip of the repo (the green button, option Download zip) 
+To get a copy of the problem set, get a fresh zip of the repo (the green Code button, option Download zip) 
 and unpack it somewhere on your platform. 
 
 Then copy the file or files into you csc427 directory.
